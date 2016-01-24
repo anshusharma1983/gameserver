@@ -4,8 +4,8 @@ A game server bootstrap.
 Multiple clients can connect to the server, game created by any client would be visible to all the servers. Initially the game state would be WAITING_FOR_PLAYERS, as soon as the players count in a game reaches 3, the game state would change to IN_GAME. If all players leave the game, game would be finished and removed from the stack
 
 Technologies Used - 
-Server - Jetty, Hibernate, MySQL
-Client - HTML, bootstrap, jQuery, websockets, json
+ - Server - Jetty, Hibernate, MySQL
+ - Client - HTML, bootstrap, jQuery, websockets, json
 
   - Jetty application server (No need to install, embedded)
   - Maven required to build
