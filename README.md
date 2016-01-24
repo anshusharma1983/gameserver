@@ -1,4 +1,4 @@
-# Assignment for junglee games 
+# Game server bootstrap
 
 To get you up and running with the application, storing information in MYSQL database using hibernate. This is a minimalistic project with small memory footprint and doesn't use spring or any other container.    
 The application accepts messages from client via websockets and store those in database.   
