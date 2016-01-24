@@ -33,4 +33,8 @@ $ mvn -Djetty.port=9999 jetty:run
 ```
 6. Check the magic on http://localhost:9999/
 
+Demonstration video 
+
+[![GameServer Demo](http://img.youtube.com/vi/kf7m1-Skm1I/0.jpg)](http://www.youtube.com/watch?v=kf7m1-Skm1I "GameServer demo")
+
 
